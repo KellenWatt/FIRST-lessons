@@ -1,12 +1,12 @@
-# FRC Programming Lessons
-Simplified programming lessons for FIRST Robotics.
+# Robotics Programming Lessons
+Simplified programming lessons for *FIRST*® Robotics Competition teams.
 
 First things first, I need to make a few things perfectly clear. 
 1. These lessons do not teach everything about the language(s) they cover. They're 
-not supposed to. They are inteneded to teach everything necessary to understand 
-and work with the languages supported by the FIRST Robotic Competition (FRC). 
+not supposed to. They are inteneded to teach the minimum material necessary to understand 
+and work with the languages supported by the *FIRST* Robotic Competition (FRC®). 
 2. These lessons are not comprehensive on the topics they cover. They're not 
-supposed to be. These lessons are intended to be used a a teaching tool for FRC 
+supposed to be. These lessons are intended to be used as a teaching tool for FRC 
 teams, not as a college textbook. As such, they only provide practical information, 
 relevant to using the language to program a robot using the official libraries 
 for the language. 
@@ -40,7 +40,8 @@ and have some resources listed in each language's README. Use them as you see fi
 There are two main points to consider before using these lessons: your proficiency 
 and your students' proficiencies. To evaluate that, read the following sentence:
 
-> FRC's WPIlib is based on a mixture of imperative and declarative programming with strong object-oriented influences.
+> The robotics libraries are based on a mixture of imperative and declarative programming 
+> with strong object-oriented influences.
 
 First, your proficiency. If you understand what this means or you have a solid 
 grasp on your language of choice, then you can absolutely use this. If not, I 
@@ -75,8 +76,8 @@ of the code and notes detailing the syntacic or semantic elements being introduc
 
 ---
 
-THESE LESSONS ARE NOT CREATED, MAINTAINED, OR ENDORSED BY 
-[For Inspiration and Recognition of Science and Technology (FIRST)](https://www.firstinspires.org/)
-OR ANY OFFICIAL AFFILIATES. ALL INFORMATION AND CODE ARE PRESENTED AS-IS, WITH NO GUARANTEE OF QUALITY OR
-SAFETY.
+*ALL INFORMATION AND CODE ARE PRESENTED AS-IS, WITH NO GUARANTEE OF QUALITY OR SAFETY.*
 
+***FIRST®, FIRST® Robotic Competition, and FIRST® Tech Challenge, are registered
+trademarks of FIRST® ([www.firstinspires.org](www.firstinspires.org)) which is not 
+overseeing, involved with, or responsible for this activity, product, or service.***
