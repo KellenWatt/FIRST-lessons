@@ -2,11 +2,11 @@
 Simplified programming lessons for FIRST Robotics.
 
 First things first, I need to make a few things perfectly clear. 
-1. These lessons do not teach everything in the language(s) they cover. They're 
+1. These lessons do not teach everything about the language(s) they cover. They're 
 not supposed to. They are inteneded to teach everything necessary to understand 
-the languages supported by the FIRST Robotic Competition (FRC). 
+and work with the languages supported by the FIRST Robotic Competition (FRC). 
 2. These lessons are not comprehensive on the topics they cover. They're not 
-supposed to be. These lessons are intended to be used as teaching tools for FRC 
+supposed to be. These lessons are intended to be used a a teaching tool for FRC 
 teams, not as a college textbook. As such, they only provide practical information, 
 relevant to using the language to program a robot using the official libraries 
 for the language. 
@@ -16,7 +16,7 @@ instructor's own knowledge. In fact, I heartily encourage this. However,
 completeness is not a goal here. These lessons are designed to be taught to 
 high school students at an accelerated pace compared to a full college-level 
 course on the subject(s), with the students in question possibly having never 
-even a terminal before outside of a movie. As such, a signficant amount of 
+even seen a terminal before outside of a movie. As such, a signficant amount of 
 information has been left out for simplicity and brevity.
 
 Please note that none of the code written or instructions given are designed to
@@ -24,12 +24,12 @@ teach good or idiomatic code. If they happen to do so, that's fantastic, but
 the foremost goal is teaching concepts, and giving them a concrete, understandable 
 form. Everything else is fluff that doesn't help the student get started programming.
 The exception to this is naming conventions in a given language, which will be 
-specifically covered in the lesson on variables. Idiomatic code isn't a goal,
-but readable code is still important.
+specifically covered in the lesson on variables, and more, as appropriate. 
+Idiomatic code isn't a goal, but readable code is still important.
 
-The target time for instruction is around 20 hours of teaching. This doesn't 
-include exercises or remidial lessons, which could easily double that time, 
-though can be partially amortized by scheduling outside of instruciton periods.
+The target time for instruction is around 20 hours of teaching (pending testing). This doesn't 
+include exercises or remedial lessons, which could easily double that time, 
+though that can be partially amortized by using time outside of instruction periods.
 
 ## Should I use this?
 Excellent question! Let me be the first to say that this format won't work 
@@ -64,7 +64,8 @@ be slightly fleshed-out teaching notes. That is, there's an order, and some
 explanations, but it isn't necessarily complete; just enough to act as guidelines 
 for what is being covered. As such, it behooves the instructor to look at them 
 beforehand and have a plan for what to teach. This can even include switching 
-lessons around.
+lessons around or scrapping them entirely (though if you do the latter, please create an issue on the 
+Github repository, and tell me what you did and why you did it.)
 
 Code provided in this repository is solely for the purposes of demonstration, and 
 should not be used for exercises. See the [exercises](#) repository for appropriate 
