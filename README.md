@@ -40,7 +40,7 @@ and have some resources listed in each language's README. Use them as you see fi
 There are two main points to consider before using these lessons: your proficiency 
 and your students' proficiencies. To evaluate that, read the following sentence:
 
-> FRC's WPIlib is based on imperitive programming with strong object-oriented influences.
+> FRC's WPIlib is based on a mixture of imperative and declarative programming with strong object-oriented influences.
 
 First, your proficiency. If you understand what this means or you have a solid 
 grasp on your language of choice, then you can absolutely use this. If not, I 
