@@ -77,7 +77,7 @@ of the code and notes detailing the syntacic or semantic elements being introduc
 
 ---
 
-*ALL INFORMATION AND CODE ARE PRESENTED AS-IS, WITH NO GUARANTEE OF QUALITY OR SAFETY.*
+This material is ©Kellen Watt 2020. All material provided is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 ***FIRST®, FIRST® Robotic Competition, and FIRST® Tech Challenge, are registered
 trademarks of FIRST® ([www.firstinspires.org](www.firstinspires.org)) which is not 
