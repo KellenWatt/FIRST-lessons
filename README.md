@@ -75,7 +75,8 @@ of the code and notes detailing the syntacic or semantic elements being introduc
 
 ---
 
-THESE LESSONS ARE NOT CREATED, MAINTAINED, OR ENDORSED BY [FIRST](https://www.firstinspires.org/)
+THESE LESSONS ARE NOT CREATED, MAINTAINED, OR ENDORSED BY 
+[For Inspiration and Recognition of Science and Technology (FIRST)](https://www.firstinspires.org/)
 OR ANY OFFICIAL AFFILIATES. ALL INFORMATION AND CODE ARE PRESENTED AS-IS, WITH NO GUARANTEE OF QUALITY OR
 SAFETY.
 
