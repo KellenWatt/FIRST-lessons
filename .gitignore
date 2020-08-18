@@ -1,0 +1,9 @@
+
+# cd++ hook files (https://github.com/KellenWatt/cdplusplus)
+# I use them to automate lesson creation
+onenter.cd
+onexit.cd
+
+# Vim swap files
+*.swo
+*.swp
