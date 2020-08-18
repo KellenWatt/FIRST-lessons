@@ -8,6 +8,8 @@ by the FIRST Robotic Competition (FRC). Second, these lessons are not comprehens
 on the topics they cover. They're not supposed to be. These lessons are intended 
 to be used as teaching tools for FRC teams, not as a college textbook.
 
-*THESE LESSONS ARE NOT CREATED, MAINTAINED, OR ENDORSED BY [FIRST](https://www.firstinspires.org/)
-OR ANY OFFICIAL AFFILIATES. ALL INFORMATION AND CODE ARE PRESENTED AS-IS, WITH NO GUARANTEE OF QUALITY.*
+---
+
+THESE LESSONS ARE NOT CREATED, MAINTAINED, OR ENDORSED BY [FIRST](https://www.firstinspires.org/)
+OR ANY OFFICIAL AFFILIATES. ALL INFORMATION AND CODE ARE PRESENTED AS-IS, WITH NO GUARANTEE OF QUALITY.
 
