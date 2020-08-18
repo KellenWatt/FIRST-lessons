@@ -1,5 +1,6 @@
 # Executable files (that I forgot to delete)
-a.out
+**/code/a.out
+**/code/code
 
 # cd++ hook files (https://github.com/KellenWatt/cdplusplus)
 # I use them to automate lesson creation
@@ -9,3 +10,6 @@ onexit.cd
 # Vim swap files
 *.swo
 *.swp
+
+# Custom backup files
+.*.*
