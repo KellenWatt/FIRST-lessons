@@ -31,7 +31,7 @@ The target time for instruction is around 20 hours of teaching. This doesn't
 include exercises or remidial lessons, which could easily double that time, 
 though can be partially amortized by scheduling outside of instruciton periods.
 
-### Should I use this?
+## Should I use this?
 Excellent question! Let me be the first to say that this format won't work 
 for everybody, and you should only teach/learn using a resource you're comfortable 
 with. If this isn't one of those things, I wish you godspeed in your learning 
@@ -56,7 +56,7 @@ The idea behind these lessons is to have a mentor with moderate to strong experi
 programming teaching inexperienced students how to write robot code. These lessons
 will hopefully benefit other students and mentors, but this is the core idea.
 
-### Getting Started
+## Getting Started
 These lessons are not intended to be used as-is.
 
 Using these lessons are fairly simple. The basic format of these are intended to 
