@@ -33,6 +33,10 @@ string is essentially a line of text, or a sequential group of *characters*.
 
 `std::endl` basically adds a newline to the end of whatever is being put in `cout`.
 
+Note that every statement in a C++ program has to end in a semicolon. A statement roughly
+equates to a line of code. In some way, it does some function that alters the state of
+the program.
+
 You'll notice the `std::` part is repeated for `cout` and `endl`. This is because `std` is 
 something called a *namespace*. We'll talk about what a namespace is later. Just know that 
 it always needs to prefix `cout`, `endl`, and a few other things that will come up later.
