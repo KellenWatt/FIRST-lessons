@@ -19,7 +19,7 @@ See the table below for more information.
 | -------- | --------------- | ------------- | ------------- |
 | `short`  |        2        |    -32768     |     32767     |
 |  `int`   |        4        |  -2147483648  |   2147483647  |
-|  `long`  |        4-8      |  -2^63 - 1\*  |   2^63\*      |
+|  `long`  |        4-8      |  -2^63 - 1\*  |   2^63\*      |<\br>
 \* Sizes listed are for 8-byte values
 
 Suffice it to say, `int` will probably be enough for any practical purposes. 
