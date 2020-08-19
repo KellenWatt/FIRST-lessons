@@ -7,6 +7,7 @@ The following is an example of C++ syntax.
 #include <iostream>
 
 int main() {
+    // Prints "Hello, world!"
     std::cout << "Hello, world!" << std::endl;
 }
 ```
@@ -23,7 +24,12 @@ C++ program. All code between `{` and `}` after `main` will be executed. We'll t
 functions more later, so don't worry about this too much. Just know that every
 C++ program needs a `main` function.
 
-**Line 4:** There's a lot going on here, so we'll address each part individually.
+**Line 4:** `//` indicates a comment in C++. Anything on the same line after the 
+double slash is considered a comment and will be ignored by the compiler. 
+This is a good way to document your code and leave notes for yourself and other 
+programmers. 
+
+**Line 5:** There's a lot going on here, so we'll address each part individually.
 `std::cout` (pronounced "see-out") is a value that represents something 
 called Standard Output or STDOUT. The `<<` is called the insertion operator, which 
 essentially injects the value on the right into `cout` and printing it to the screen.
@@ -41,7 +47,7 @@ You'll notice the `std::` part is repeated for `cout` and `endl`. This is becaus
 something called a *namespace*. We'll talk about what a namespace is later. Just know that 
 it always needs to prefix `cout`, `endl`, and a few other things that will come up later.
 
-**Line 5:** Just ending `main` with a curly brace. All braces, including parentheses, 
+**Line 6:** Just ending `main` with a curly brace. All braces, including parentheses, 
 square brackets, and curly braces must be part of a matched pair. Every opening must
 have a closing.
 
