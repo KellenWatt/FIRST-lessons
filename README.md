@@ -1,6 +1,6 @@
 # Robotics Programming Lessons
 Simplified programming lessons for *FIRST*® Robotics Competition teams. 
-Provided by a mentor from *FIRST* Robotics Team 2165, "Bisonbots".
+Provided by a mentor from *FIRST* Robotics Team 2165, "BisonBots".
 
 First things first, I need to make a few things perfectly clear. 
 1. These lessons do not teach everything about the language(s) they cover. They're 
