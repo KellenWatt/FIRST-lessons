@@ -11,6 +11,12 @@ supposed to be. These lessons are intended to be used as a teaching tool for FRC
 teams, not as a college textbook. As such, they only provide practical information, 
 relevant to using the language to program a robot using the official libraries 
 for the language. 
+3. Some of the information provided will omit/simplify details or be outright *wrong*. 
+This is always intentional, and will be noted as such. These lessons are 
+supposed to be a crash course in programming, not a thorough explanation. As such, 
+some details aren't important, and the students can learn about them later. Make
+sure that you emphasize that you aren't telling the students everything, so they 
+aren't confused when exposed to new topics later.
 
 Now, by all means, these points can be supplemented by other sources or the 
 instructor's own knowledge. In fact, I heartily encourage this. However, 
