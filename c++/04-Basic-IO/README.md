@@ -21,7 +21,7 @@ The part that makes output so simple is that the insertion operator/value pairs
 can be chained, meaning you can print multiple things at once. That looks 
 something like this.
 ```c++
-// Let's print the digits of pi, the hard way!
+// Let's print the digits of pi the hard way!
 std::cout << 3 << '.' << 1 << "4" << 15; 
 // note that std::endl is optional.
 ```
