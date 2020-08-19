@@ -64,6 +64,11 @@ A string can be written by using a pair of double quotes (""), surround 0 or mor
 characters. A character is anything you can type, including spaces, punctuation,
 normal letters, etc.
 
+The type you use to refer to a string is `std::string`. Note the `std::` part. `string`
+is a complex type called a *class* which we'll cover later. All you need to know 
+for know is that you need to prefix it with `std::` and you need to use 
+`#import <string>` to have access to it. We'll talk about why this is much later.
+
 When you want to represent a single character, this uses the `char` type. You can 
 write a `char` value by using a single character, surrounded by single-quotes ('').
 This isn't necessarily something you'll use often, so this is more of a curiosity.
