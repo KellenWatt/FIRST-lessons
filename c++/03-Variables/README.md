@@ -71,7 +71,8 @@ for know is that you need to prefix it with `std::` and you need to use
 
 When you want to represent a single character, this uses the `char` type. You can 
 write a `char` value by using a single character, surrounded by single-quotes ('').
-This isn't necessarily something you'll use often, so this is more of a curiosity.
+For example, `'d'` is a character literal for the letter "d". This isn't necessarily 
+something you'll use often, so this is more of a curiosity.
 
 **Sidebar**: The concept of "letters" doesn't really exist in programming. Instead, 
 we refer to everything as a character. Since all text is technically represented
