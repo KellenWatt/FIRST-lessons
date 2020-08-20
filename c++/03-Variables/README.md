@@ -105,6 +105,13 @@ In any variable declaration, assigning an initial value is optional, which means
 can drop the equals sign and the right side of the equals sign, not including the 
 semicolon.
 
+Variable names can be whatever you want, as long as it is composed of letters and 
+underscores(\_). You can also use numbers, as long as the first character of the 
+name is a letter or underscore. The convention in C++ is to use something called
+`CamelCase`, which means starting a varaible with a lowercase letter, and if there 
+are multiple words in the name, every word after the first is capitalized.<br>
+*snake_case can be mentioned here as well.*
+
 ### Using a variable
 Using a variable is the easiest thing in programming. All you have to do is write 
 the variable's name, and when your code is running, it will have the value you've 
