@@ -40,7 +40,7 @@ You can use `cin` to read into a varaible as follows. Note that the variable
 has to be created beforehand.
 ```c++
 std::string name;
-cin >> name;
+std::cin >> name;
 ```
 Now `name` has the value of whatever you typed in. Note that you need to press 'Enter'
 to tell the program when you're done entering input, otherwise it will sit there 
