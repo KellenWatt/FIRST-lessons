@@ -48,3 +48,6 @@ waiting for you forever.
 
 If you want to see the value that `name` has, you can put a `cout` statement in 
 your code to print it out.
+
+Trying to use `cin` to assign an invalid value to a variable will fail. For example,
+if you type an integer value when trying to get a `char`, `cin` will fail.
