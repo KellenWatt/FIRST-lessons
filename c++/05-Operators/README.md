@@ -1,7 +1,9 @@
 # Lesson 05-Operators
 
 *This lesson leaves out bitwise operators, electing to not explain "insertion" 
-and "extraction" operators. It also doesn't explain implicit type conversion.*
+and "extraction" operators. It also doesn't explain type conversion, both explicit 
+and implicit. The logic is that casting is usually a sign that there's a better 
+approach to the program, and implicit conversions hide function and intent.*
 
 Operators are one of the most important ways to get things done at a fundamental level.
 There are operators defined for all primitive types. In fact, you've encountered 3 
